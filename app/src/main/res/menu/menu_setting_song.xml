@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_favorite_song"
+        android:title="Thêm vào danh sách ưa thích"/>
+    <item android:id="@+id/detail"
+        android:title="Chi tiêt"/>
+    <item android:id="@+id/delete"
+        android:title="Xóa khỏi danh sách phát"/>
+</menu>
